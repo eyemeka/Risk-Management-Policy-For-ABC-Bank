@@ -1,4 +1,4 @@
-# Risk-Management-Policy-For-ABC-Bank
+# Risk Management Policy For ABC Bank
 
 <h2>Overview</h2>
 This project is on reviewing and updating ABC Bank (a fictional bank) Risk Management Policy. I reviewed and updated the organization's risk policy for compliance with the National Institute of Standards and Technology's risk management framework NIST SP 800-53.
